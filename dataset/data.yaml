@@ -1,0 +1,23 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 15
+names:
+  [
+    'A Frame',
+    'Dog Walk',
+    'Long Jump',
+    'Non Winged Jump',
+    'Non Winged One Jump',
+    'Panel Jump',
+    'See Saw',
+    'Tire Jump',
+    'Tunnel',
+    'Wall Jump',
+    'Weave Poles 12',
+    'Winged Double Jump',
+    'Winged Jump',
+    'Winged OneJump',
+    'Winged Triple Jump',
+  ]
